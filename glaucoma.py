@@ -7,7 +7,7 @@ import os
 
 # --- Configuration ---
 # The model file MUST be committed to your GitHub repo.
-model_filename = 'glaucoma_clf_model.pkl'
+model_filename = 'glaucomapickle.pkl'
 
 # Construct a robust path to the model file
 base_path = os.path.dirname(__file__)
